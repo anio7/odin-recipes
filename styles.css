@@ -8,12 +8,17 @@ h1{
     text-shadow: 0 0 5px white;
 }
 
-div a{
-    display:flex;
+nav{
     width:100%;
-    justify-content:end;
+    text-align:left;
+    justify-content:space-around;
 }
-div.dish{
+a:hover{
+    text-decoration: none;
+    color:pink;
+    font-size: 1.2em;
+}
+.dish{
     border-radius:100%; /*this is for the circle shape*/
     width:300px;
     height:300px;
@@ -30,5 +35,6 @@ div p::first-letter{
     font-weight: bold;
     text-transform: capitalize;
 }
-ol{
-    float:both;}
+div>li{
+    list-style-type: none;
+}

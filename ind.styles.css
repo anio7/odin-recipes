@@ -1,0 +1,17 @@
+h1,h2{ 
+    text-align: center;
+}
+h1{
+    font-size: 3em;
+    text-shadow: 0 0 5px black;
+}
+div{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+a:hover{
+    text-decoration: none;
+    font-size:large;
+    color: #601a1a;
+}
