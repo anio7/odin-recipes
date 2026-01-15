@@ -11,7 +11,7 @@ div{
     align-items: center;
 }
 a:hover{
-    text-decoration: none;
-    font-size:large;
-    color: #601a1a;
+        text-decoration: none;
+        color:pink;
+        font-size: 1.2em;
 }

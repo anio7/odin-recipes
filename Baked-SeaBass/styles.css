@@ -2,12 +2,11 @@ h1{
     color: #060606;
     text-align:center;
     font-size: 4em;
-    background: url("fish\ -dish.jpg");
+    background: url("/odin-recipes/Baked-SeaBass/images/fish\ -dish.jpg");
     border: 2px solid black;
     border-radius: 5px;
     text-shadow: 0 0 5px white;
 }
-
 nav{
     width:100%;
     text-align:left;
@@ -23,7 +22,7 @@ a:hover{
     width:300px;
     height:300px;
     border: 2px solid black;
-    background:url("steamed-fish-00335.jpg") ;
+    background:url("/odin-recipes/Baked-SeaBass/images/steamed-fish-00335.jpg") ;
     background-size:cover ;
     float:left;
     /*this goes hand in hand with float*/

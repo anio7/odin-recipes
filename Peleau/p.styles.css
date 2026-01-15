@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    font-size: 4em;
+    text-shadow: 0 0 5px black;
+}
+img{
+    width:300px;
+    height:300px;
+    border-radius: 10px;
+    float:left;
+    shape-margin:square(5%);
+}
